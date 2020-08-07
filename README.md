@@ -1,4 +1,5 @@
 #### Manish Dhakal (Nepalese)
+Pursuing in Machine Learning
 ##### CS Student | ML | Web Dev | NLP | GAN
 ----
 [**Personal Website**](https://manishdhakal.github.io) | 
