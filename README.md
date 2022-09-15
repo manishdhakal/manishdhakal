@@ -11,7 +11,7 @@
 </a>
 
 #### Manish Dhakal (Nepalese)
-Pursuing in Machine Learning
+Pursuing The Way of Life
 ##### CS Student | ML | Web Dev | NLP | GAN
 ----
 ###### Contacts
