@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=manishdhakal&layout=compact" />
 </a>
 
-#### Manish Dhakal (Nepalese)
+#### Manish Dhakal (Nepali)
 Pursuing The Way of Life
 ##### CS Student | ML | Web Dev | NLP | GAN
 ----
