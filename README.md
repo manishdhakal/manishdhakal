@@ -1,6 +1,4 @@
-<p align="center"> 
- <img src="https://profile-counter.glitch.me/manishdhakal/count.svg"/>
-</p>
+
 
 <a href="https://github.com/manishdhakal">
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=manishdhakal&show_icons=truet&include_all_commits=True&hide=contribs"/>
@@ -21,4 +19,4 @@ Pursuing The Way of Life
 [**DEV.TO**](https://dev.to/manishdhakal)
 
 ###### Interests
-Swimming | Motorcycling | Space | Entrepreneurship | Wildlife | Fitness | Travel
+Swimming | Motorcycling | Space | Wildlife | Fitness | Travel
